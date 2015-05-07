@@ -1,0 +1,6 @@
+
+cook water
+put teabag into cup
+put water in cup
+wait 5 min
+remove teabag
